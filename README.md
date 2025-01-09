@@ -4,7 +4,7 @@ This project is a clone of X (formerly Twitter) built using HTML, CSS, and Tailw
  ## Features
 **Responsive Design**: The layout adapts to different screen sizes (mobile, tablet, desktop).
 
-**Search Bar**: Allows users to search through posts or users.
+**Search Bar**
 
 **Trending Topics**: Displays a list of trending topics or hashtags.
 
@@ -22,7 +22,7 @@ This project is a clone of X (formerly Twitter) built using HTML, CSS, and Tailw
 
 **Tailwind CSS**: A utility-first CSS framework used for responsive design and styling.
 
-**Material Icons**: Used for the verification badge and other icons like "chat_bubble", "repeat", etc.
+**Material Icons**: Used for the verification badge and other icons.The icons are used from [Material Symbols and Icons](https://fonts.google.com/icons)
 
 
  ## Installation
