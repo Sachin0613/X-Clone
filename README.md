@@ -1,4 +1,10 @@
 ## X Clone (Twitter Clone)
+
+
+
+https://github.com/user-attachments/assets/65ba30dc-d8f5-4285-aed2-cb55cb0991d9
+
+
 This project is a clone of X (formerly Twitter) built using HTML, CSS, and Tailwind CSS. The goal of this project is to recreate the user interface and some features of the X platform while practicing web development skills, especially with Tailwind CSS for responsive design and styling.
 
  ## Features
